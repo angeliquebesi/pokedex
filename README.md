@@ -1,3 +1,7 @@
+# Study
+
+It is a project for learn react, props and Bootstrap.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
