@@ -1,7 +1,6 @@
 # Study
 
 It is a project for learn react, props and Bootstrap.
-This result is https://angeliquebesi.github.io/pokedex/
 
 # Getting Started with Create React App
 
